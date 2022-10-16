@@ -1,6 +1,6 @@
 const baseURL = window.origin;
 const api = "https://api.danbot.host";
-const ID = "640161047671603205";
+const ID = "903067522939646024";
 const {REACT_APP_API_TOKEN} = process.env;
 
 const getOauth = function (state) {
